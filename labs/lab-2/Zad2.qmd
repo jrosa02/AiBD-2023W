@@ -1,0 +1,16 @@
+---
+title: "zad 2"
+author: "Jan Rosa"
+format: md
+editor: visual
+---
+
+## Zad 2
+
+```{r}
+library(knitr) 
+df = data.frame( Imię = c("Anna", "Jan", "Karolina"), 
+                 Wiek = c(25, 30, 28), 
+                 Płeć = c("Kobieta", "Mężczyzna", "Kobieta") ) 
+kable(df, format = "markdown") 
+```

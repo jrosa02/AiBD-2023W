@@ -1,0 +1,14 @@
+---
+title: "Zaddom2"
+author: "Jan Rosa"
+format: pptx
+editor: visual
+---
+
+## Quarto
+
+Lorem ipsum dolor sit amet aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+## Picture UwU
+
+![Example Image](https://upload.wikimedia.org/wikipedia/commons/3/35/Ggplot2_Violin_Plot.png)
